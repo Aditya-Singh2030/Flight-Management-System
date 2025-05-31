@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\adity\Desktop\project"/>
+			<item value="C:\Users\adity\Desktop\Case Study\User"/>
+			<item value="C:\Users\adity\Desktop\Case Study\check-in"/>
+			<item value="C:\Users\adity\Desktop\Case Study\Bookings"/>
+			<item value="C:\Users\adity\Desktop\Case Study\api-gateway"/>
+			<item value="C:\Users\adity\Desktop\Case Study\Flights"/>
+			<item value="C:\Users\adity\Desktop\Case Study\Booking"/>
+			<item value="C:\Users\adity\Desktop\Case Study\gateway"/>
+			<item value="C:\Users\adity\Desktop\Case Study\registry"/>
+			<item value="C:\Users\adity\Desktop\Case Study\Flight"/>
+			<item value="C:\Users\adity\Desktop\Case Study\seat-service"/>
+			<item value="C:\Users\adity\Desktop\Case Study\Booking-service"/>
+			<item value="C:\Users\adity\Desktop\Case Study\flight-service"/>
+			<item value="C:\Users\adity\Desktop\Case Study\service-registry"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.Case_Study"/>
+		</list>
+		<list key="groupId">
+			<item value="com.Case-Study"/>
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.Case-Study"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Flight"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
